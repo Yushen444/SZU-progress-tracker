@@ -1,0 +1,20 @@
+# 凭据与部署环境
+yumao_key.pem
+*.pem
+*.key
+scripts/deploy.ps1
+server-snapshot/
+deploy/
+
+# 本地抓取源、校验报告与历史快照
+data/raw/
+data/validation/
+public/
+backups/
+*.bak
+
+# 本地工具和导入材料
+.agents/
+demos/
+SZUer交接文档.md
+web-design-taste-main.zip

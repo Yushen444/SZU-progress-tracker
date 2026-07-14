@@ -1,0 +1,13 @@
+{
+  "name": "szuer-plan-database",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:plans": "node scripts/build-plan-db.mjs",
+    "validate:plans": "node scripts/validate-plan-db.mjs",
+    "test:addon-progress": "node scripts/test-addon-progress.mjs",
+    "test:design": "node scripts/test-local-design.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}
