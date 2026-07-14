@@ -2,6 +2,8 @@
 
 一个面向深圳大学学生的培养方案导入、课程管理与毕业进度查询工具。它将不同年级、学院和修读类型的培养方案整理为可直接导入的课程数据库，帮助学生更直观地记录课程、成绩、绩点和毕业学分进度。
 
+![SZU Progress Tracker 首页预览](assets/szu-progress-tracker-preview.png)
+
 ## 在线体验
 
 **[打开网页体验](http://yumao.japaneast.cloudapp.azure.com/)**
